@@ -1,2 +1,2 @@
 # beakjoon-problems
-Hello. Here is example answer. JOIN ME!
+반갑습니다. Here is example answer. JOIN ME! :)
